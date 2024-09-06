@@ -131,3 +131,21 @@ textarea{
 img{
     border-radius: 20px;
 }
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+  
+}
+.tabelas aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div .text-start{
+    font-size: 1.5rem;
+}
+
+figure .w-75 {
+    height: 580px;
+}
